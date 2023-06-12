@@ -1,5 +1,4 @@
 👻 Hey!
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YidaHu&show_icons=true&theme=radical" />
 
 I am a professional full stack developer.
 
