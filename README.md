@@ -1,4 +1,4 @@
-<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=YidaHu&show_icons=true&count_private=false&theme=radical" /></a>
+<a href="http://huyida.tech" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=YidaHu&show_icons=true&count_private=false&theme=radical" /></a>
 
 👻 Hey!
 
