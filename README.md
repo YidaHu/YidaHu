@@ -6,5 +6,5 @@ I am a professional full stack developer.
 
 - 🔭 I’m currently working in <b>SuZhou, China.</b>
 - 🌱 I’m currently focusing on distributed system and NLP.
-- 🔭 My personal blog: http://huyida.tech
+- 🔭 My personal blog: https://huyida.blog
 - 📫 How to reach me: huyidada@gmail.com
